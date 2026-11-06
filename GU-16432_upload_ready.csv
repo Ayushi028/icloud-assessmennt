@@ -1,0 +1,34 @@
+sessId,admno,rollno,studentName,subCode,subName,ssType,examName,sequenceNo,questionNo,marks,maxMarks,qType,bloomsLevel,coMapping,coDifficulty,qLabel,acadYear,examSession,totalMarks,totalMaxMarks
+,22SCSE4219610,22134168743,Divya Iyer,K1UC222T,Training And Development,PP,ETE-1,1,1,58.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,58.0,100
+,22SCSE7924526,22131422166,Ayush Dubey,R1UC601B,Advanced Algorithmic Problem Solving,PP,ETE-1,1,1,65.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,65.0,100
+,21SCSE9642887,21131768239,Saanvi Iyer,C1UC121B,Multi Variable Calculus,PP,ETE-1,1,1,52.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,52.0,100
+,24SCSE9478588,24130509633,Neha Das,R1PC306B,Web Technology,PP,ETE-1,1,1,57.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,57.0,100
+,24SCSE4456115,24134879234,Nikhil Dubey,E1PY211T,Digital Image Processing,PP,ETE-1,1,1,41.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,41.0,100
+,24SCSE8450332,24132352646,Harsh Agarwal,E1PY213T,Artificial Intelligence Generative Ai,PP,ETE-1,1,1,55.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,55.0,100
+,23SCSE8600321,23135134511,Nidhi Srivastava,K1UC428T,Report Writing,PP,ETE-1,1,1,66.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,66.0,100
+,22SCSE4495085,22139498355,Anjali Singh,C1UC322T,Probability And Statistics,PP,ETE-1,1,1,29.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,29.0,100
+,23SCSE5841447,23136252225,Ayush Das,E1UA411T,Principles Of Management,PP,ETE-1,1,1,50.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,50.0,100
+,23SCSE5280828,23138729552,Ananya Thakur,C1UC323T,Linear Algebra,PP,ETE-1,1,1,27.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,27.0,100
+,22SCSE4096115,22135535285,Riya Verma,C1UC322T,Probability And Statistics,PP,ETE-1,1,1,58.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,58.0,100
+,21SCSE3275327,21133076769,Aryan Rawat,E2UC505T,Computer Organisation And Architecture,PP,ETE-1,1,1,61.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,61.0,100
+,23SCSE8303857,23133493925,Riya Jain,C1UC125T,Applied Linear Algebra,PP,ETE-1,1,1,56.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,56.0,100
+,22SCSE8850029,22133023195,Manav Srivastava,R1UC601B,Advanced Algorithmic Problem Solving,PP,ETE-1,1,1,36.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,36.0,100
+,22SCSE3976768,22132805377,Rohan Iyer,R1UC501T,Theory Of Computation,PP,ETE-1,1,1,30.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,30.0,100
+,23SCSE7051709,23136432725,Divya Iyer,E1UA202T,Probability And Statistics,PP,ETE-1,1,1,51.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,51.0,100
+,22SCSE9870948,22135838253,Dev Rana,BCSE2361,Data Structures & Algorithms,PP,ETE-1,1,1,32.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,32.0,100
+,22SCSE6186808,22136703122,Rohan Sharma,R1UC501T,Theory Of Computation,PP,ETE-1,1,1,56.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,56.0,100
+,22SCSE8594914,22132497958,Ira Mishra,C1UC322T,Probability And Statistics,PP,ETE-1,1,1,54.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,54.0,100
+,22SCSE4331069,22136912288,Kunal Das,G2UC101B,Introduction Of Digital System,PP,ETE-1,1,1,38.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,38.0,100
+,22SCSE3583503,22134458323,Sai Thakur,E1UA405T,Computer Networks,PP,ETE-1,1,1,42.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,42.0,100
+,22SCSE6589081,22135773552,Neha Kapoor,E1UJ204T,Discrete Mathematics,PP,ETE-1,1,1,41.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,41.0,100
+,22SCSE2833398,22131436700,Kunal Nair,G1UA620T,Civil Infrastructure,PP,ETE-1,1,1,28.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,28.0,100
+,23SCSE9584111,23137393373,Amit Sharma,E1UA202T,Probability And Statistics,PP,ETE-1,1,1,63.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,63.0,100
+,22SCSE3577937,22134066981,Pooja Mishra,E1UA510C,Advanced Web Technology,PP,ETE-1,1,1,52.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,52.0,100
+,21SCSE3243561,21133597220,Anjali Jain,R1UC701T,Research Methodology And  Ipr,PP,ETE-1,1,1,38.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,38.0,100
+,23SCSE3753559,23137343822,Tushar Yadav,R1UC301B,Operating Systems,PP,ETE-1,1,1,40.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,40.0,100
+,22SCSE7012887,22136204685,Aarav Nair,C1UC220T,Linear Algebra And Differential Equations,PP,ETE-1,1,1,36.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,36.0,100
+,22SCSE9513826,22131314139,Simran Pandey,R1UC627B,Compiler Design,PP,ETE-1,1,1,30.5,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,30.5,100
+,24SCSE5339148,24136138286,Shreya Sharma,E1PA103B,Problem Solving And Computer Programming,PP,ETE-1,1,1,29.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,29.0,100
+,21SCSE3720418,21134824094,Tanya Bhatia,R1UD702B,Generative And Explainable Ai,PP,ETE-1,1,1,36.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,36.0,100
+,22SCSE8783623,22138371512,Amit Thakur,C1UC322T,Probability And Statistics,PP,ETE-1,1,1,41.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,41.0,100
+,24SCSE3927410,24137117007,Meera Pandey,E1PY211T,Digital Image Processing,PP,ETE-1,1,1,22.0,100,,,,,,2025-2026,Revaluation Re Check Form Winter 2025-2026,22.0,100
